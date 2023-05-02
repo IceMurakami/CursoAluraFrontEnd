@@ -1,2 +1,2 @@
 # CursoAluraFrontEnd
-Primeiro Projeto do curso alura de html ecss
+Primeiro Projeto do curso alura de html e css. 
